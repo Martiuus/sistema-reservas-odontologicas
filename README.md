@@ -48,7 +48,7 @@ MySQL (o un gestor de base de datos compatible como MariaDB)
 Sigue estos pasos para configurar y ejecutar el proyecto en tu entorno local.
 
 1. Clonar el Repositorio
-git clone <URL_DEL_REPOSITORIO>
+git clone https://github.com/Martiuus/sistema-reservas-odontologicas
 cd sistema-reservas-odontologicas
 
 2. Configurar el Backend (/server)
